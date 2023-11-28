@@ -39,7 +39,7 @@ In .env:
 6.
 7. Application structure in Laravel
 8. Basic Routing And HTTP Responses
-9.
+9. Controllers In Laravel
 10.
 
 
