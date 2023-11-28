@@ -8,6 +8,27 @@
 
 `$ php artisan --version`
 
+## Environment Variables
+
+In source:
+
+`env('ENVIRONMENT_VARIABLE');`
+
+In .env:
+
+`ENVIRONMENT_VARIABLE=Value`
+
+## Composer
+
+`$ composer install`
+
+`$ composer update`
+
+`$ composer show --tree`
+
+`$ composer dump-autoload`
+
+
 ## Code With Dary
 
 1. Introduction to Laravel
@@ -16,7 +37,7 @@
 4. How To Customize Your Terminal On Mac
 5. How To Run A Laravel Project In The Browser
 6.
-7.
+7. Application structure in Laravel
 8.
 9.
 10.
