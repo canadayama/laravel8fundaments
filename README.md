@@ -38,7 +38,7 @@ In .env:
 5. How To Run A Laravel Project In The Browser
 6.
 7. Application structure in Laravel
-8.
+8. Basic Routing And HTTP Responses
 9.
 10.
 

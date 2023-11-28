@@ -14,6 +14,25 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return env('CREATOR_NAME');
+    return view('home');
     //return view('welcome');
 });
+
+// Route::get('/users', function () {
+//     return 'Welcome to the users page.';
+// });
+
+// Route::get('/users', function () {
+//     return ['PHP', 'HTML', 'Laravel'];
+// });
+
+// Route::get('/users', function () {
+//     return response()->json([
+//         'name' => 'Richard',
+//         'course' => 'Laravel Beginners To Advanced'
+//     ]);
+// });
+
+// Route::get('/users', function () {
+//     return redirect('/');
+// });
